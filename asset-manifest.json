@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fluffy-fortnight/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/fluffy-fortnight/static/js/main.b0f6a00c.chunk.js",
+    "main.js.map": "/fluffy-fortnight/static/js/main.b0f6a00c.chunk.js.map",
+    "runtime-main.js": "/fluffy-fortnight/static/js/runtime-main.695040d5.js",
+    "runtime-main.js.map": "/fluffy-fortnight/static/js/runtime-main.695040d5.js.map",
+    "static/js/2.a27ea594.chunk.js": "/fluffy-fortnight/static/js/2.a27ea594.chunk.js",
+    "static/js/2.a27ea594.chunk.js.map": "/fluffy-fortnight/static/js/2.a27ea594.chunk.js.map",
+    "static/js/3.a84d1bff.chunk.js": "/fluffy-fortnight/static/js/3.a84d1bff.chunk.js",
+    "static/js/3.a84d1bff.chunk.js.map": "/fluffy-fortnight/static/js/3.a84d1bff.chunk.js.map",
+    "index.html": "/fluffy-fortnight/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/fluffy-fortnight/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a27ea594.chunk.js.LICENSE.txt": "/fluffy-fortnight/static/js/2.a27ea594.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/fluffy-fortnight/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.695040d5.js",
+    "static/js/2.a27ea594.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.b0f6a00c.chunk.js"
+  ]
+}
