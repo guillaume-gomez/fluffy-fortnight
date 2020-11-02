@@ -1,3 +1,6 @@
+*This repository is just the create react app boilerplate. My goal here was to make a production build + deploy on gh-pages*
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
